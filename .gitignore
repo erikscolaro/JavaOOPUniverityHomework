@@ -1,0 +1,2 @@
+# Ignore GitLab CI configuration file
+.gitlab-ci.yml
